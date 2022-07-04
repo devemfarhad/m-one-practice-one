@@ -1,0 +1,64 @@
+body{
+    font-family: 'Finlandica', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+
+h1 .h1color {
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width-left{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+.half-width img{
+    width: 80%;
+}
+.half-width-left-img img{
+    width: 80%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.half-width-left-img{
+    width: 50%;
+}
+.half-width-right{
+    width: 50%;
+    padding-right: 5%;
+    padding-top: 10%;
+
+}
+p{
+    font-size: 30px;
+}
+
+.food-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(218, 116, 22));
+    color: white;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 30px;
+}
+
+.about-me{
+    background-color: rgb(243, 213, 194);
+}
+
+.h1my-rec{
+    text-align: center;
+}
+.pmy-rec{
+    text-align: center;
+}
